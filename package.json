@@ -1,14 +1,14 @@
 {
-    "name": "allen.wang",
-    "title": "allen.wang",
-    "author": "allen.wang",
+    "name": "ConanZzz",
+    "title": "ConanZzz",
+    "author": "ConanZzz",
     "version": "1.0.0",
-    "homepage": "http://allenwhm.github.io",
+    "homepage": "http://marionettee.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/allenwhm/allenwhm.github.io"
+        "url": "https://github.com/marionettee/marionettee.github.io"
     },
-    "bugs": "https://github.com/allenwhm/allenwhm.github.io/issues",
+    "bugs": "https://github.com/marionettee/marionettee.github.io/issues",
     "devDependencies": {
         "grunt": "^1.0.3",
         "grunt-banner": "~0.2.3",
