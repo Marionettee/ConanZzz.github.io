@@ -3,14 +3,15 @@ layout:       post
 title:        "基于redux的一些网络请求的理解（react相关）"
 date:         2019-05-02
 author:       "Conan"
-header-img:   "img/in-post/build-blog-with-jekyll-theme/jekyll-theme.png"
+header-img:   "img/in-post/improve-professional-competence/professional-competence.jpg"
 header-mask:  0.7
 catalog:      false
 multilingual: false
 tags:
-    - Blog
     - React
 ---
+
+>本文转载自我个人的已经停更的[CSDN博客](https://blog.csdn.net/ConanZzz_/article/details/89766078)
 
 由于新项目前端框架选型用到了react+redux+react-router的技术栈，最近一段时间终于重拾起了扔了两年的react，老泪纵横。。。react已经出到16+版本，据说facebook团队对react进行了大规模重构，但是对使用者没有丝毫的影响，牛啤！
 

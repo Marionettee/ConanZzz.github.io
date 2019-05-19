@@ -8,9 +8,10 @@ header-mask:  0.7
 catalog:      false
 multilingual: false
 tags:
-    - Blog
     - React
 ---
+
+>本文转载自我个人的已经停更的[CSDN博客](https://blog.csdn.net/ConanZzz_/article/details/90114736)
 
 最近在写demo的时候遇到一个更新列表中某个的对象的某个值，最期待的结果肯定是局部刷新，但是我们往往在改变值之后会遇到全局都刷新的问题，以下为个人实验出来的一个小技巧。
 
@@ -46,10 +47,12 @@ render(){
 import React,{Component} from 'react';
 export class DemoComponent extends Component{
     render(){
-        <div>
-          <div>this.props.val.id</div>
-          <button onClick={()=>this.toggleDialog()}>toggle</button>  
-        </div>
+        return (
+            <div>
+                <div>this.props.val.id</div>
+                <button onClick={()=>this.toggleDialog()}>toggle</button>  
+            </div>
+        )
     }
     toggleDialog(){
         // 更改val.showDialog相关操作。

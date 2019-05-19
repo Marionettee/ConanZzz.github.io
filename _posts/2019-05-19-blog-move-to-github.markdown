@@ -1,32 +1,33 @@
 ---
 layout:       post
-title:        "30分钟，搭建你的个人网站 | github.io"
-date:         2019-03-16
+title:        "博客搬迁的通知以及一些碎碎念"
+date:         2019-05-19
 author:       "Allen"
 header-img:   "img/in-post/build-personal-blog/build-personal-blog.jpg"
-header-mask:  0.9
+header-mask:  0.7
 catalog:      false
 multilingual: false
 tags:
     - Blog
-    - GitHub
 ---
 
-不管懂不懂网页技术，搭建一个属于自己的个人网站总是极具诱惑力的。
+>每一个技术宅都有一个拥有自己技术博客的梦想。我也不例外。
 
-这是一个完全由你自己掌控的地方，在这里，你是你自己的国王/王后。
+虽然自己写博客的时间不长（大概一个月），但还是要正式宣布下，我正式入驻[github博客](https://marionettee.github.io/)，我的[CSDN博客](https://blog.csdn.net/ConanZzz_)也将停更。但是我还是会经常回去看看的，哈哈哈，毕竟CSDN的博客还是有很多参考价值的。
 
-也许这事以前做起来还有些麻烦，但是现在却十分简单，零基础，零投入，即刻拥有！
+*-------------------------------碎碎念--------------------------*
 
-为了让你有一个直观的感受，可以先看我快速创建的 [主页](https://allenwhm.github.io)。
+毕业已经快三年了。最近跟大学好友交流生活，技术。那些在北京漂泊三年的朋友俨然都成长了好多，至少 成长的比我多。
 
-搭建个人网站的方式有很多种，最近发现最简单快捷的是用 [github.io](https://pages.github.com/) 。
+大学舍友老王，毕业后拿到了小米的offer，去年跳槽凤凰金融风控部门，成为了好友里最先拿到年薪30W的男人;好友Gary Guo，去年跳入饿了么，后来饿了么被阿里收购，成了阿里的一员。今年跳槽同程艺龙定级为P5+。
 
-根据 [github pages](https://pages.github.com/) 的提示，一步一步做下来，很快就可以搭建一个基本的网站。下面所做演示，也基本按照这样的流程，只是补充一些内容，搭建一个更加美观的网站。
+而我，没有像他们一样，选择北上广深的挑战，毅然决然的选择了离家近的西安。
 
-话不多说，立马行动。Can't wait to start!
+西安的就业形式是严峻的，在刚来西安的时候我投过很多简历，大多石沉大海，拿到的offer大部分4k+。好在凭借不错的表现我通过了中软国际的面试，入职汇丰银行业务线移动业务交付部，担任前端开发。
 
-1.注册GitHub账户
+在过去的两年多，我成长了很多，但是依旧有很多不足。未来也需要继续努力。先定一个小目标，今年github contributions 90%以上，不要让‘热爱技术’只是口号。 
+
+最后，在这篇碎碎念的博客底部，
 [https://github.com/join](https://github.com/join)
 
 ![register](http://img.blog.csdn.net/20170812211800107?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWVldF9N/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
