@@ -2,7 +2,7 @@
 layout:       post
 title:        "博客搬迁的通知以及一些碎碎念"
 date:         2019-05-19
-author:       "Allen"
+author:       "Conan"
 header-img:   "img/in-post/build-personal-blog/build-personal-blog.jpg"
 header-mask:  0.7
 catalog:      false
